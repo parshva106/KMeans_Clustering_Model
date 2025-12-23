@@ -67,29 +67,31 @@ KMeans_Clustering_Model/
 ---
 
 ## 🚀 How to Run the Project
+
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/parshva106/KMeans_Clustering_Model.git
 ````
 
 2. Navigate to the project directory:
 
-   ```bash
+```bash
    cd KMeans_Clustering_Model
-   ```
+````
 3. Install dependencies:
 
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+````
 4. Open the notebook:
 
-   ```bash
+```bash
    jupyter notebook
-   ```
+````
 5. Run `KMeans_Clustering.ipynb`
 
 ---
+
 
 ## 📌 Results & Insights
 
