@@ -120,7 +120,7 @@ This project is licensed under the **MIT License**.
 ## 🤝 Connect with Me
 
 * **GitHub:** [https://github.com/parshva106](https://github.com/parshva106)
-* **LinkedIn:** *(Add your LinkedIn here)*
+* **LinkedIn:** *https://www.linkedin.com/in/parshva-mehta-b3102b2b8/*
 
 ---
 
